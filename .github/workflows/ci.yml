@@ -48,4 +48,4 @@ jobs:
             node-version-file: .nvmrc
             cache: npm
         - run: npm ci
-        - run: npm trun build
+        - run: npm run build
